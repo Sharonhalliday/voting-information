@@ -1,0 +1,25 @@
+#above-18, #under-18 {
+    display: none;
+   
+}
+
+#above-18{
+    padding-top: 50px;
+    width: 400px;
+    height: 150px;
+    background-color: rgb(57, 155, 12);
+    color: white;
+    padding-left: 30px;
+}
+#under-18{
+    padding-top: 50px;
+    width: 400px;
+    background-color:rgb(57, 155, 12) ;
+    color: white;
+    padding-left: 30px;
+    height: 150px;
+}
+.container{
+    padding-top: 50px;
+}
+
